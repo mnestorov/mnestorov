@@ -2,8 +2,11 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/mnestorov?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=mnestorov.mnestorov)
+<a href="https://www.linkedin.com/in/mnestorov/"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=border-radius:5px&logo=linkedin&logoColor=white"></a>
 
-I'm Martin, a PHP Developer from Bulgaria. Beside's web programming, I enjoy traveling 🚀.
+I'm Martin, а full-stack web developer from Bulgaria with more than 10 years of experience. I've been building `PHP`, `Laravel` and WordPress-driven multisites. My job description includes developing custom solutions, planning and building websites architecture, integrating plugins or services with `Laravel` or `WordPress`.
+
+Beside's web programming, I enjoy traveling 🚀.
 
 **More about me:**
 
