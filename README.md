@@ -4,7 +4,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=mnestorov.mnestorov)
 <a href="https://www.linkedin.com/in/mnestorov/"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=border-radius:5px&logo=linkedin&logoColor=white"></a>
 
-I'm Martin, а full-stack web developer from Bulgaria with more than 10 years of experience. I've been building `PHP`, `Laravel` and WordPress-driven multisites. My job description includes developing custom solutions, planning and building websites architecture, integrating plugins or services with `Laravel` or `WordPress`.
+I'm Martin, а PHP developer from Bulgaria with more than 10 years of experience. I've been building `PHP`, `Laravel` and WordPress-driven multisites. My job description includes developing custom solutions, planning and building websites architecture, integrating plugins or services with `Laravel` or `WordPress`.
 
 Beside's web programming, I enjoy traveling 🚀.
 
@@ -12,7 +12,7 @@ Beside's web programming, I enjoy traveling 🚀.
 
 - 💼 PHP developer at [DevriX](http://devrix.com/)
 - 🔭 On my free time I’m working on [SmartyCMS](https://github.com/smartystudio/smartycms)
-- 💬 Ask me about [Laravel](https://laravel.com/) and [WordPress](https://wordpress.org/)
+- 💬 Ask me about PHP, [Laravel](https://laravel.com/) or [WordPress](https://wordpress.org/)
 - ⚡ Fun fact: I ❤️ my BMW ☺️
 
 **Languages and Tools:**  
