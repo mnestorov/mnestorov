@@ -33,7 +33,7 @@ Beside's web programming, I enjoy traveling 🚀.
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-| <a href="https://github.com/mnestorov/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mnestorov&show_icons=true&include_all_commits=true&hide_border=true" alt="Martin's github stats" /></a> | <a href="https://github.com/mnestorov/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnestorov&layout=compact&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=mnestorov&show_icons=true&include_all_commits=true&hide_border=true" alt="Martin's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnestorov&layout=compact&hide_border=true" /> |
 | ------------- | ------------- |
 
 <!--
