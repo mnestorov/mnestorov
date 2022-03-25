@@ -11,7 +11,6 @@ Beside's web programming, I enjoy traveling 🚀.
 **More about me:**
 
 - 💼 PHP/Laravel Developer
-- 🔭 On my free time I’m working on [SmartyCMS](https://github.com/smartystudio/smartycms)
 - 💬 Ask me about PHP, [Laravel](https://laravel.com/)
 - ⚡ Fun fact: I ❤️ my BMW ☺️
 
@@ -23,6 +22,7 @@ Beside's web programming, I enjoy traveling 🚀.
 | ------------- | ------------- |
 
 <!--
+- 🔭 On my free time I’m working on [SmartyCMS](https://github.com/smartystudio/smartycms)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
