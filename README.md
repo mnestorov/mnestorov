@@ -4,7 +4,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=mnestorov.mnestorov)
 <a href="https://www.linkedin.com/in/mnestorov/"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=border-radius:5px&logo=linkedin&logoColor=white"></a>
 
-I'm а PHP developer from Bulgaria with more than 10 years of experience. I've been building `PHP` / `Laravel` driven multisites. My job description includes developing custom solutions, planning and building websites architecture and integrating services with `Laravel`.
+I'm а PHP developer from Bulgaria with more than 10 years of experience. I've been building `PHP` / `Laravel` driven multisites. My job description includes developing custom solutions, planning and building websites architecture and integrating services with `PHP / Laravel`.
 
 Beside's web programming, I enjoy traveling 🚀.
 
