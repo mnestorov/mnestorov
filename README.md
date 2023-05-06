@@ -1,17 +1,18 @@
 ### Hi there 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/mnestorov?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=mnestorov.mnestorov)
 <a href="https://www.linkedin.com/in/mnestorov/"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=border-radius:5px&logo=linkedin&logoColor=white"></a>
 
-I'm а PHP developer with more than 10 years of experience. I've been building `PHP` / `Laravel` driven multisites. My job description includes developing custom solutions, planning and building websites architecture and integrating services with `PHP` / `Laravel`.
+I'm а **web developer** with more than **10 years of experience**. I've been building `PHP` / `Laravel` driven multisites. My job description includes developing custom solutions, planning and building websites architecture and integrating services with `PHP` / `Laravel`.
 
 Beside's web programming, I enjoy traveling 🚀.
 
 **More about me:**
 
-- 💼 PHP/Laravel Developer
+- 💼 Senior PHP / Laravel Developer
 - 💬 Ask me about PHP, [Laravel](https://laravel.com/)
+- 🌱 I’m currently learning [Python](https://www.python.org/)
+- 💻 Linux user
 - ⚡ Fun fact: I ❤️ my BMW ☺️
 
 **Languages and Tools:**  
