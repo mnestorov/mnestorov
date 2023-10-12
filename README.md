@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://www.linkedin.com/in/mnestorov/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://twitter.com/mbnestorov">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="#">![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a>
+<a href="https://twitter.com/mbnestorov">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="#">![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a> 
 
 I'm а **web developer** with more than **10 years of experience**. I've been building `PHP` / `Laravel` driven multisites. My job description includes developing custom solutions, planning and building websites architecture and integrating services with `PHP` / `Laravel`.
 
@@ -13,7 +13,6 @@ Beside's web programming, I enjoy traveling 🚀.
 - 💬 Ask me about PHP, [Laravel](https://laravel.com/)
 - 🌱 I’m currently learning [Python](https://www.python.org/)
 - 💻 Linux user
-- ⚡ Fun fact: I ❤️ my BMW ☺️
 
 <!--
 - 🔭 On my free time I’m working on ...
@@ -22,6 +21,7 @@ Beside's web programming, I enjoy traveling 🚀.
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+- ⚡ Fun fact: I ❤️ my BMW ☺️
 -->
 
 **Tech stack:**
@@ -39,10 +39,18 @@ Beside's web programming, I enjoy traveling 🚀.
 
 **Operating system:**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 **Hardware:**
 
 ![Dell_Laptop](https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white)
+
+### Support Me
+
+Your support is greatly appreciated and will help ensure all of the projects continued development and improvement. Thank you for being a part of the community!
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://bmc.link/mnestorov) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/mnestorov)
+
+---
 
 _This repository is [unlicense](https://choosealicense.com/licenses/unlicense/)[d], so feel free to fork!_
