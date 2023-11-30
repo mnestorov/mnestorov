@@ -3,14 +3,14 @@
 <a href="https://www.linkedin.com/in/mnestorov/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://twitter.com/mbnestorov">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="#">![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a> 
 
-I'm а **web developer** with more than **10 years of experience**. I've been building `PHP` / `Laravel` driven multisites. My job description includes developing custom solutions, planning and building websites architecture and integrating services with `PHP` / `Laravel`.
+I'm а **web developer** with more than **10 years of experience**. I've been building `PHP` / `Laravel` and `WordPress` driven multisites. My job description includes developing custom solutions, planning and building websites architecture and integrating services with `PHP` / `Laravel` and `WordPress`.
 
 Beside's web programming, I enjoy traveling 🚀.
 
 **More about me:**
 
 - 💼 Senior PHP / Laravel Developer
-- 💬 Ask me about PHP, [Laravel](https://laravel.com/)
+- 💬 Ask me about PHP, [Laravel](https://laravel.com/), [WordPress](https://wordpress.org/)
 - 🌱 I’m currently learning [Python](https://www.python.org/)
 - 💻 Linux user
 
