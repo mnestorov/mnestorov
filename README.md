@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/mnestorov/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://twitter.com/mbnestorov">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="#">![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a> 
 
-I'm а **web developer** with more than **10 years of experience**. I've been building `PHP` / `Laravel` and `WordPress` driven multisites. My job description includes developing custom solutions, planning and building websites architecture and integrating services with `PHP` / `Laravel` and `WordPress`.
+I'm а **web developer** with **10 + years of experience**. I've been building `PHP` / `Laravel` and `WordPress` driven multisites. My job description includes developing custom solutions, planning and building websites architecture and integrating services with `PHP` / `Laravel` or `WordPress`.
 
 Beside's web programming, I enjoy traveling 🚀.
 
