@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<a href="https://www.linkedin.com/in/mnestorov/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://twitter.com/mbnestorov" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://smartystudio.net" target="_blank">![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a> 
+<a href="https://smartystudio.net" target="_blank">![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a> 
 
 I'm а **web developer** with **10 + years of experience**. I've been building `PHP` / `Laravel` and `WordPress` driven multisites. My job description includes developing custom solutions, planning and building websites architecture and integrating services with `PHP` / `Laravel` or `WordPress`.
 
