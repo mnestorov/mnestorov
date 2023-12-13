@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<a href="https://www.linkedin.com/in/mnestorov/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://twitter.com/mbnestorov">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="#">![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a> 
+<a href="https://www.linkedin.com/in/mnestorov/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://twitter.com/mbnestorov" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://smartystudio.net" target="_blank">![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a> 
 
 I'm а **web developer** with **10 + years of experience**. I've been building `PHP` / `Laravel` and `WordPress` driven multisites. My job description includes developing custom solutions, planning and building websites architecture and integrating services with `PHP` / `Laravel` or `WordPress`.
 
@@ -9,7 +9,7 @@ Beside's web programming, I enjoy traveling 🚀.
 
 **More about me:**
 
-- 💼 Senior PHP / Laravel Developer
+- 💼 Senior PHP Developer @ Smarty Studio
 - 💬 Ask me about PHP, [Laravel](https://laravel.com/), [WordPress](https://wordpress.org/)
 - 🌱 I’m currently learning [Python](https://www.python.org/)
 - 💻 Linux user
@@ -49,7 +49,7 @@ Beside's web programming, I enjoy traveling 🚀.
 
 Your support is greatly appreciated and will help ensure all of the projects continued development and improvement. Thank you for being a part of the community!
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://bmc.link/mnestorov) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/mnestorov)
+[![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)](https://buy.stripe.com/7sI6qagF4cQV4xy5kk) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/mnestorov)
 
 ---
 
