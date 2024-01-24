@@ -10,7 +10,7 @@ Beside's web programming, I enjoy traveling 🚀.
 
 - 💼 Senior PHP Developer @ Smarty Studio
 - 💬 Ask me about PHP, [Laravel](https://laravel.com/), [WordPress](https://wordpress.org/)
-- 🌱 I’m currently learning [Python](https://www.python.org/)
+- 🌱 I’m currently learning [React](https://react.dev/)
 - 💻 Linux user
 
 <!--
