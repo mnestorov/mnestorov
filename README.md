@@ -48,7 +48,11 @@ Beside's web programming, I enjoy traveling 🚀.
 
 Your support is greatly appreciated and will help ensure all of the projects continued development and improvement. Thank you for being a part of the community!
 
-[![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)](https://buy.stripe.com/7sI6qagF4cQV4xy5kk) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/mnestorov)
+---
+
+- LTC: `LPV7EqTdEYjnFsBwaCtKuAB2XajMgxEh82`
+- USDT (BEP20): `0x4603b2b4e2f2a699cb7a65f6f564bbd5b91970cd`
+- USDT (TRC20): `TGMQjS7HHwXTtLdpgYdHc2GZZGEcGLrhca`
 
 ---
 
