@@ -8,7 +8,7 @@ Beside's web programming, I enjoy traveling 🚀.
 
 **More about me:**
 
-- 💼 Senior PHP Developer @ Smarty Studio
+- 💼 IT Professional | WordPress & Laravel Developer
 - 💬 Ask me about PHP, [Laravel](https://laravel.com/), [WordPress](https://wordpress.org/)
 - 🌱 I’m currently learning [React](https://react.dev/)
 - 💻 Linux user
