@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://smartystudio.net" target="_blank">![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a> 
+<a href="#" target="_blank">![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a> 
 
 I'm а **web developer** with **17 + years of experience**. I've been building `PHP` / `Laravel` and `WordPress` driven multisites. My job description includes developing custom solutions, planning and building websites architecture and integrating services with `PHP` / `Laravel` or `WordPress`.
 
